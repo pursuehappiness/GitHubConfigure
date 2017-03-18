@@ -1,0 +1,6 @@
+
+git config --global user.name "Lucient Lau"
+git config --global user.email "pursueexcel@gmail.com"
+
+Generate SHH Key:
+ssh-keygen -t rsa -C "pursueexcel@gmail.com"
