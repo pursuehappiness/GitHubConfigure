@@ -1,0 +1,1 @@
+Git branch -a : list all branch in curren repository
