@@ -1,0 +1,1 @@
+git push remoterRepositoryName localBranchName(is equalto remote branch name then it can be ignored):remoteBranchNmae
