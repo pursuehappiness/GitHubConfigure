@@ -1,5 +1,8 @@
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/pursuehappiness/GitHubConfigure.git
+git remote add origin https://github.com/pursuehappiness/GitHubConfigure.git [this is https method need input username and passwd every times u push]
+
+git remote add origin git@github.com:pursuehappiness/GitHubConfigure.git[this is SSH method dont need input username and passwd when u push]
+
 git push -u origin master
